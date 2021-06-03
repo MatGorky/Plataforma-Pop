@@ -1,7 +1,7 @@
 # Plataforma-Pop
 
 Projeto final da matéria de organização da informação, cursada em 2019.
-A plataforma pop, é um portal de busca unir pessoas à profissionais, onde um usuário pode se registrar para oferecer serviços ou buscar por um profissional que ofereça o serviço.
+A plataforma pop, é um portal que busca unir pessoas à profissionais, onde um usuário pode se registrar para oferecer serviços ou buscar por um profissional que ofereça o serviço.
 
 Trabalho em conjunto, feito por mim e [Vinícius Lettieri](https://github.com/viniciuslettieri) 
 
