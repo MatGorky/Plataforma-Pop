@@ -1,0 +1,19 @@
+.botao-edita{
+	position: absolute;
+	right: 20px;
+	top: 20px;
+
+	outline: none;
+    background-color: transparent;
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+.imagem-edita{
+	position: relative;
+	width: 16px;
+	height: 16px;
+}
+.deletar-servico{
+	margin-right: 15px;
+}
